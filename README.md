@@ -2,7 +2,7 @@
 This project is a festive animation of a Christmas tree with sparkling effects and a "Merry Christmas" message. The animation is created using HTML, CSS, and JavaScript, with the help of the GSAP (GreenSock Animation Platform) library for smooth animations and SVG manipulation.
 
 ## 🎥 Demo
-You can view the live demo of the project [[here](https://mahdidevsec.github.io/Christmas/)]
+You can view the live demo of the project [[here](https://codepen.io/MahdiDevSec/full/PwYagPp)]
 
 ---
 
@@ -37,7 +37,7 @@ The CSS file that styles the project, including the background, font, and SVG el
 ## 🚀 How to Run the Project
 
 ### Method 1:
-You can view the live demo of the project [[here](https://mahdidevsec.github.io/Christmas/)]
+You can view the live demo of the project [[here](https://codepen.io/MahdiDevSec/full/PwYagPp)]
 
 ### Method 2:
 
